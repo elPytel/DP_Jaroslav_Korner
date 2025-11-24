@@ -5,15 +5,22 @@ Příprava vybraných úloh (4-5)
 - Jiné než vypracovali na VUT.
 
 ## Zadání
-
+CZ
 Praktické úlohy pro předmět Počítačová bezpečnost
 
-5 bodů zadání:
-- Rešerše sylabů a praktických řešení kurzů zaměřených na kyberbezpečnost v univerzitním i firemním prostředí
-- Návrh sylabu kurzu vhodného pro magisterské studiu Aplikovaná informatika 
-- Návrh souboru praktických úloh použitelných v rámci cvičení 
-- Implementace a testování úloh v laboratorním prostředí 
-- Vyhodnocení připravených úloh na skupině studentů
+EN
+Development of Practical Exercises for the Computer Security Course
+
+Zásady pro vypracování:
+1. Proveďte rešerši sylabů a praktických řešení kurzů zaměřených na kybernetickou bezpečnost v univerzitním i firemním prostředí.
+2. Sestavte sylabus kurzu počítačové bezpečnosti vhodný pro magisterské studium programu Aplikovaná informatika.
+3. Navrhněte soubor praktických úloh, které budou použitelné v rámci laboratorních cvičení.
+4. Implementujte a otestujte úlohy v laboratorním prostředí.
+5. Vyhodnoťte výsledky testování připravených úloh.
+
+Doporučená literatura:
+- BROWN, Lawrie. Computer Security: Principles and Practice, Global Edition. Pearson Education, 2024. ISBN 978-1-292-47329-1
+- VANDENBRINK, Rob. Linux for Networking Professionals. Packt Publishing, 2021. ISBN 978-1-80020-239-9.
 
 ## Literatura
 
@@ -27,6 +34,12 @@ DP která se zabývala velmi podobnou problematikou:
 
 ## Mojmir Volf
 ![[Sylabus_Volf]]
+
+
+## Výbava ve škole 
+- Ubuntu, 
+- Wirtualbox, 
+- openwrt
 
 ## Rešeršovatelné zdroje
 
@@ -65,6 +78,11 @@ N00619v00033153
 > [!question]
 > Jak bude probíhat testování na studentech?
 
+"Pustit si stopky" jsem na Erasmu (+dobrou odpověď pro komisi)
+
+Logická další část:
+Vyhodnocení kurzu (Podávka, Najman)
+
 ## Osnova
 
 - [ ] Rešerše:
@@ -84,3 +102,29 @@ Pro každou úlohu popsat:
 - Co má student dodat (flag / report / opravený kód)
 - Jak se úloha hodnotí
 - Technický návrh (architektura, Docker image, databáze…)
+
+### Obsah kurzu (návrh sylabu)
+
+> [!note]
+> Ne vždy se 14 úloh dá reálné stihnout (12 je reálných).
+
+Vyhlášky?
+- NIS2
+- GDPR
+
+> [!question]
+> Můžeme s tím něco použít?
+
+### Implementace úloh
+
+Možné úlohy:
+- DNS filtr
+- Zabezpečení WIFI 
+  - Radius
+  - wireshark
+- Firewall 
+- Lokální autentizace LDAP
+
+### Vyhodnocení 
+Práce v týmu
+Stopnout čas 
