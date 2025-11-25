@@ -4,6 +4,7 @@ Sestavte sylabus (10-14 témat)
 Příprava vybraných úloh (4-5)
 - Jiné než vypracovali na VUT.
 
+[[Praktické úlohy pro předmět Počítačová bezpečnost]]
 ## Zadání
 CZ
 Praktické úlohy pro předmět Počítačová bezpečnost
@@ -70,6 +71,7 @@ N00619v00033153
 - DVWA (Damn Vulnerable Web App)
 - Root Me, HackTheBox, TryHackMe
 - CTFd, FBCTF, pwn.college
+- [blackhat](https://blackhat.com/eu-25/?_mc)
 
 ## TODO:
  - [ ] Najít jiné DP zajímající se počítačovou bezpečnost. 
