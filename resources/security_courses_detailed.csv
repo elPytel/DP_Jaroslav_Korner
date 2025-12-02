@@ -1,0 +1,36 @@
+Univerzita;Program / obor;Kurz / Předmět / Modul;Zaměření / poznámka;URL
+ČVUT FIT;Mgr. – Počítačová bezpečnost;NI-SBF – Systémová bezpečnost a forenzní analýza;Systémová bezpečnost, forenzní metody, analýza incidentů;https://fit.cvut.cz/cs/studium/programy-a-obory/magisterske/4583-pocitacova-bezpecnost/studijni-plan
+ČVUT FIT;Mgr. – Počítačová bezpečnost;NI-SIB – Síťová bezpečnost;Síťové protokoly, bezpečnost infrastruktury, obrana proti útokům;https://fit.cvut.cz/cs/studium/programy-a-obory/magisterske/4583-pocitacova-bezpecnost/studijni-plan
+ČVUT FIT;Mgr. – Počítačová bezpečnost;NI-KRY – Pokročilá kryptologie;Kryptografie, moderní kryptosystémy, bezpečnostní analýzy;https://fit.cvut.cz/cs/studium/programy-a-obory/magisterske/4583-pocitacova-bezpecnost/studijni-plan
+ČVUT FIT;Mgr. – Počítačová bezpečnost;NI-HES – Hardwarová bezpečnost;Bezpečnost čipů, kryptografické moduly, TEMPEST;https://fit.cvut.cz/cs/studium/programy-a-obory/magisterske/4583-pocitacova-bezpecnost/studijni-plan
+ČVUT FIT;Mgr. – Počítačová bezpečnost;NI-VIR – Analýza škodlivého kódu;Malware analýza, reverzní inženýrství;https://fit.cvut.cz/cs/studium/programy-a-obory/magisterske/4583-pocitacova-bezpecnost/studijni-plan
+ČVUT FIT;Mgr. – Počítačová bezpečnost;NI-SEP – Penetrační testování a etický hacking;Ofenzivní bezpečnost, testování webu a sítí;https://fit.cvut.cz/cs/studium/programy-a-obory/magisterske/4583-pocitacova-bezpecnost/studijni-plan
+Masarykova univerzita FI;Mgr. – Computer Systems, Communication and Security;PA158 – Applied Cryptography;Praktická kryptografie, implementace a útoky;https://is.muni.cz
+Masarykova univerzita FI;Mgr. – Computer Systems, Communication and Security;PA193 – Secure Coding;Bezpečné programování, obrana proti XSS, SQLi, buffer overflow;https://is.muni.cz
+Masarykova univerzita FI;Mgr. – Computer Systems, Communication and Security;PB168 – Secure Network Design;Síťová architektura, VPN, firewall, segmentace;https://is.muni.cz
+Masarykova univerzita FI;Mgr. – Computer Systems, Communication and Security;PA173 – Information Security Management;ISMS, audit, NIS2, governance;https://is.muni.cz
+VUT FIT;Ing. – Information Technology Security;ITS01 – Fundamentals of Information Security;Základy bezpečnosti IT, modely důvěry, hrozby;https://www.fit.vut.cz
+VUT FIT;Ing. – Information Technology Security;ITS02 – Network Security;Síťová bezpečnost, bezpečnostní nástroje, firewall, IDS;https://www.fit.vut.cz
+VUT FIT;Ing. – Information Technology Security;ITS03 – Applied Cryptography;Kryptografie v praxi, veřejný klíč, certifikáty;https://www.fit.vut.cz
+VUT FIT;Ing. – Information Technology Security;ITS04 – Secure Programming;Bezpečný vývoj, mitigace útoků, testování;https://www.fit.vut.cz
+VUT FIT;Ing. – Information Technology Security;ITS05 – Digital Forensics;Forenzní analýza souborů a systémů;https://www.fit.vut.cz
+VŠB-TUO;Mgr. – Kybernetická bezpečnost;Cyber Security I;Základy kryptografie, bezpečnost sítí, řízení přístupu;https://fei.vsb.cz
+VŠB-TUO;Mgr. – Kybernetická bezpečnost;Cyber Security II;Praktické útoky a obrana, firewall, IDS, testování;https://fei.vsb.cz
+ZČU FAV/KIV;Mgr. – Informatika;KIV/BIT – Bezpečnost informačních technologií;Základy IT bezpečnosti, autentizace, šifrování;https://courseware.zcu.cz
+ZČU FAV/KIV;Mgr. – Informatika;KIV/BSA – Security of Network Applications;Síťová bezpečnost, webové aplikace, autentizace;https://courseware.zcu.cz
+UK MFF;Mgr. – Informatika;NSWI071 – Information System Security;Architektura IS, bezpečnostní modely, politika a audit;https://is.cuni.cz/studium
+UK MFF;Mgr. – Informatika;NSWI089 – Applied Cryptography;Symetrická a asymetrická kryptografie, hashování;https://is.cuni.cz/studium
+MIT (USA);Graduate – EECS;6.858 – Computer Systems Security;OS security, network protocols, web, hardware;https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/pages/syllabus/
+MIT (USA);Graduate – EECS;6.857 – Network and Computer Security;Network security, cryptography, protocols, authentication;https://ocw.mit.edu/courses/6-857-network-and-computer-security-spring-2014/pages/syllabus/
+University of Oxford (UK);MSc – Software and Systems Security;Software Security;Analýza zranitelností softwaru, bezpečné návrhové vzory;https://www.ox.ac.uk/admissions/graduate/courses/msc-software-and-systems-security
+University of Oxford (UK);MSc – Software and Systems Security;System Security;Bezpečnost OS, sandboxing, privilege escalation;https://www.ox.ac.uk/admissions/graduate/courses/msc-software-and-systems-security
+University of Oxford (UK);MSc – Software and Systems Security;Digital Forensics;Analýza incidentů, důkazní materiály, chain of custody;https://www.ox.ac.uk/admissions/graduate/courses/msc-software-and-systems-security
+Royal Holloway (UK);MSc – Information Security;Cryptography I;Kryptografie, bezpečnost algoritmů;https://www.royalholloway.ac.uk/studying-here/postgraduate/information-security/information-security/
+Royal Holloway (UK);MSc – Information Security;Network Security;Bezpečnost komunikace, síťové hrozby;https://www.royalholloway.ac.uk/studying-here/postgraduate/information-security/information-security/
+Royal Holloway (UK);MSc – Information Security;Software Security;Bezpečnost vývoje softwaru;https://www.royalholloway.ac.uk/studying-here/postgraduate/information-security/information-security/
+UCL (UK);MSc – Information Security;Computer Security;Základy počítačové bezpečnosti;https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/information-security-msc
+UCL (UK);MSc – Information Security;Secure Communications;Šifrování, protokoly, bezpečná výměna klíčů;https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/information-security-msc
+UCL (UK);MSc – Information Security;Cryptography;Kryptografické algoritmy, asymetrické systémy;https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/information-security-msc
+University of Cambridge (UK);Master – Computer Science;Software and Security Engineering;Bezpečný vývoj SW, návrh bezpečných systémů;https://www.cl.cam.ac.uk/teaching/2122/SWSecEng/
+University of Cambridge (UK);Master – Computer Science;Security I: Principles;Teoretické základy bezpečnosti systémů;https://www.cl.cam.ac.uk/teaching/2122/Security1/
+University of Cambridge (UK);Master – Computer Science;Security II: Applications;Pokročilé aplikace bezpečnosti, forenzika, kryptografie;https://www.cl.cam.ac.uk/teaching/2122/Security2/
