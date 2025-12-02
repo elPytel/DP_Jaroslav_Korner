@@ -28,6 +28,7 @@ Doporučená literatura:
 Našel jsem zajímavou literaturu, ale hlouběji jsem se nestihl ponořit:
 - [[Alice-and-Bob_Learn-secure-coding.pdf]]
 - [[Alice-and-Bob_Learn-Application-Security.pdf]]
+- [Výkladový slovník kybernetické bezpečnosti](https://www.cybersecurity.cz/data/Slovnik_610_el.pdf)
 
 ### DP práce
 DP která se zabývala velmi podobnou problematikou:
