@@ -33,9 +33,10 @@ Našel jsem zajímavou literaturu, ale hlouběji jsem se nestihl ponořit:
 DP která se zabývala velmi podobnou problematikou:
 [Počítačová cvičení pro předmět Návrh, správa a bezpečnost počítačových sítí](https://www.vut.cz/studenti/zav-prace/detail/167274?zp_id=167274)
 
-## Mojmir Volf
-![[Sylabus_Volf]]
+## Sylabusy kurzů počítačové bezpečnosti
 
+### TUL - Mojmir Volf
+![[Sylabus_Volf]]
 
 ## Výbava ve škole 
 - Ubuntu, 
