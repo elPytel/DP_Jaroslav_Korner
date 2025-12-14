@@ -1,4 +1,3 @@
-
 # Úvod do kybernetické bezpečnosti
 
 - [czechitas: Úvod do kybernetické bezpečnosti](https://www.czechitas.cz/kurzy/uvod-do-kyberneticke-bezpecnosti)
