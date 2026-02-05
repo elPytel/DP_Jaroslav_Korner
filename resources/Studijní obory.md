@@ -54,7 +54,6 @@ Royal Holloway, University of London — MSc Information Security / MSc Cyber Se
 University of Cambridge — Software and Security Engineering (kurz, materiály)
 * Rozpis přednášek a studijní materiály (policy, protokoly, usable security, risk). ([Katedra informatiky na Cambridgi: Course pages 2020–21: Software and Security Engineering](https://www.cl.cam.ac.uk/teaching/2021/SWSecEng/))
 
-
 # TUL
 - [[Sylabus_Volf]]
 # FIT 
